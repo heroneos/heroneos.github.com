@@ -1,0 +1,66 @@
+@charset "utf-8"
+/* CSS document*/
+
+
+body {
+	font-family: Arial;
+}
+
+h2 {
+	text-align: center;
+}
+
+td {
+	width: 250px;
+}
+
+.bgblack {
+	background-color: #03000D;
+	color: #D6E5FF;
+	margin-left: 0px;
+	width: 580px;
+	height: 1250px;
+}
+
+.txtbgblack {
+	font-family: Arial;
+	margin-left: 20px;
+}
+
+.tdpad {
+	padding-left: 25px;
+}
+
+.txtbgwhite {
+	color: #03000D;
+	font-family: Arial;
+	position: absolute;
+	top: 0px;
+	left: 600px;
+}
+
+.separ {
+	width: 600px;
+}
+
+h1 {
+	position: relative;
+	top: 10px;
+	left: 150px;
+}
+
+h3 {
+	position: relative;
+	top: 15px;
+	left: 300px;
+}
+
+img {
+	border: 3px solid #D6E5FF;
+	padding: 10px;
+	position: relative;
+	top: 10px;
+	left: 185px;
+	width: 175px;
+	height: 175px;
+}
